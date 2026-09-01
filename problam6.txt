@@ -1,0 +1,2 @@
+we can also solve it manualy
+sum of sq of n first nature n is given by n*(n+1)*(2*n+1)/6
